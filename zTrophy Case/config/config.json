@@ -1,0 +1,62 @@
+{
+    "id": "Boss_Display_Case",
+    "item_name": "Boss Hunter's Display Case",
+    "item_short_name": "Boss Hunter's Display Case",
+    "item_description": "This sleek display case is perfect for showing off your hard-earned trophies from the most notorious bosses in Tarkov. With its tempered glass panels and reinforced metal frame, it's the perfect way to showcase your collection.",
+
+    "trader": "ragman",
+    "trader_loyalty_level": 2,
+    "currency": "roubles",
+    "price": 500000,
+    "unlimited_stock": false,
+    "stock_amount": 1,
+
+    "allow_in_slots": [""],
+
+    "ExternalSize": {
+        "width": 2,
+        "height": 3
+    },
+
+    "InternalSize": {
+        "horizontal_cells": [10],
+          "vertical_cells": [10]
+    },
+
+    "included_filter": ["62a61bbf8ec41a51b34758d2",
+                        "628e4dd1f477aa12234918aa",
+                        "628b9784bcf6e2659e09b8a2",
+                        "628baf0b967de16aab5a4f36",
+                        "5fc64ea372b0dd78d51159dc",
+                        "5c0e874186f7745dc7616606",
+                        "5c0e842486f77443a74d2976",
+                        "5c0e541586f7747fa54205c9",
+                        "62963c18dbc8ab5f0d382d0b",
+                        "628b9c7d45122232a872358f",
+                        "5b3b713c5acfc4330140bd8d",
+                        "5efde6b4f5448336730dbd61",
+                        "5e997f0b86f7741ac73993e2",
+                        "5d08d21286f774736e7c94c3",
+                        "5c0126f40db834002a125382",
+                        "6087e570b998180e9f76dc24",
+                        "60a7ad3a0c5cb24b0134664a",
+                        "60a7ad2a2198820d95707a2e",
+                        "609e860ebd219504d8507525",
+                        "63626d904aa74b8fe30ab426",
+                        "636270263f2495c26f00b007"],
+    "excluded_filter": [""],
+
+    "cell_to_apply_filters_to": 0,
+    "unique_included_filter": [""],
+    "unique_excluded_filter": [""],
+
+    "allow_in_secure_containers": true,
+    "allow_in_backpacks": true,
+    "case_allowed_in": ["59fb042886f7746c5005a7b2",
+                        "5c0a840b86f7742ffa4f2482"],
+    "case_disallowed_in": [""]
+
+
+
+
+}
